@@ -9,10 +9,10 @@ This project explores digital wallet transaction data to extract valuable insigh
 5. Fraud Detection – Detecting suspicious transactions using IQR, Z-score, and Isolation Forest.
 
 ## Tech Stack
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels)
-Machine Learning (Isolation Forest for anomaly detection)
-Time Series Analysis (Moving averages, decomposition)
-Data Visualization (Heatmaps, line charts, bar graphs)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels)
+- Machine Learning (Isolation Forest for anomaly detection)
+- Time Series Analysis (Moving averages, decomposition)
+- Data Visualization (Heatmaps, line charts, bar graphs)
 
 ## Insights & Business Impact
 - Revenue insights help optimize pricing strategies.
